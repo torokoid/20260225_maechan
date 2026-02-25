@@ -289,6 +289,11 @@ p.note { display: none; }
 <h2><span class="yellow">チビも一緒にいただきました</span></h2>
 <a href="20260225_045.JPG" target="_blank"><img src="20260225_045.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">スマホカメラ向けたら、ママに笑顔作りなさいと言われて作った笑顔がこちら</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dre4UITMjg8?si=2PY5yK1QkUH_U8tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <br><br>
 
 <h2><span class="yellow">一点おまけ動画、メタバース上で公開された、まいてゃさん作のオリジナルソング<br>前回とは別作品です</span></h2>
